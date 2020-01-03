@@ -1,0 +1,17 @@
+.body{
+    color:black;
+    background-color: cornsilk;
+}
+
+.image{
+   height: 7rem;
+}
+.langimage{
+    height: 1rem;
+}
+.gitimage{
+    height: 1rem;
+}
+.footerimage{
+    height: 1rem;
+}
